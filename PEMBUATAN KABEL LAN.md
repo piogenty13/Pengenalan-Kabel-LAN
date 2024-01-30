@@ -2,7 +2,7 @@ Pembuatan Kabel LAN Straight dan Cross
 
 A. Alat dan Bahan
   1. Kabel UTP
-![Uploading Gambar WhatsApp 2024-01-30 pukul 16.54.37_dd8b7ffa.jpg…]()![2a8cb5acdb0e81b25a029aae37375616](https://github.com/piogenty13/Pengenalan-Kabel-LAN/assets/126374059/f27ed598-fdde-4d32-9989-d0ad4c0ce74b)
+()![2a8cb5acdb0e81b25a029aae37375616](https://github.com/piogenty13/Pengenalan-Kabel-LAN/assets/126374059/f27ed598-fdde-4d32-9989-d0ad4c0ce74b)
   2. Tang Crimping
 ![Gambar WhatsApp 2024-01-30 pukul 16 54 35_23ca38c8](https://github.com/piogenty13/Pengenalan-Kabel-LAN/assets/126374059/eea6563b-8c88-49cb-b2ed-715a552828e0)
   3. Konektor RJ45
